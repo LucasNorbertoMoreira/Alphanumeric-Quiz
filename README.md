@@ -1,9 +1,17 @@
 # Quiz Alfanumérico
 Esse é o meu primeiro jogo desenvolvido com IA, programado em Python.
-O modelo utilizado foi o Gemini 2.5 pro
+
+Ferramentas:
+- Python
+- Pygame
+- Gemini 2.5 Pro API
 
 Quiz Alfanumérico
 Um jogo dinâmico e divertido onde você tem que advinhar o número corresponde a letra do alfabeto.
+
+Objetivo:
+O jogo foi feito para testar a minha capacidade de criar um jogo em conjunto com a IA utilizando Python. 
+Também devido ao meu interesse em memorizar sequências e me desafiar.
 
 Funcionalidades:
 Dificuldade Progressiva: O jogo começa fácil e vai ficando mais desafiador à medida que você pontua.
@@ -25,5 +33,9 @@ Se você preferir, pode iniciar o jogo pelo código. Certifique-se que tem Pytho
 
  - pip install pygame
  - python jogo_letras_gui.py
+
+O que eu Aprendi:
+Nesse projeto aprendi a testar possíveis erros, buscar soluções por conta própria, 
+sugerir melhorias e o básico sobre funções em python e a criação de um arquivo para manipular os dados
 
 Criado por Lucas N.
