@@ -1,29 +1,29 @@
 # Alphanumeric-Quiz
-This is my first game developed with AI, programmed in Python.
-I created the game using the Gemini 2.5 Pro model.
+Esse é o meu primeiro jogo desenvolvido com IA, programado em Python.
+O modelo utilizado foi o Gemini 2.5 pro
 
-Alphanumeric-Quiz
-A dynamic and fun game about guessing the number that corresponds to each letter of the alphabet, built with Python and the Pygame library.
+Quiz Alfanumérico
+Um jogo dinâmico e divertido onde você tem que advinhar o número corresponde a letra do alfabeto.
 
-Features
-Progressive Difficulty: The game starts easy and gets more challenging as you score.
+Funcionalidades:
+Dificuldade Progressiva: O jogo começa fácil e vai ficando mais desafiador à medida que você pontua.
 
-Resizable Interface: The game window can be resized, and all elements will adapt accordingly.
+Interface Redimensionável: A janela do jogo pode ser redimensionada, e todos os elementos vão se adaptar.
 
-Visual & Sound Effects: Smooth animations, particle effects, correct/incorrect answer sounds, and background music for an immersive experience.
+Efeitos Visuais e Sonoros: Animações suaves, efeito de partículas, sons de acerto e erro e uma música de fundo para uma experiência mais imersiva.
 
-Audio Settings: A complete menu to adjust the volume for both music and sound effects.
+Configurações de Áudio: Um menu para você ajustar o volume da música e efeitos sonoros.
 
-High Score System: Your best score is saved, so you can always challenge yourself!
+Sistema de Maior Pontuação: Sua melhor pontuação é registrada, então você consegue sempre se desafiar!
 
-How to Run
-1. Download the .EXE File (Recommended)
-Go to the Releases section of this repository and download the latest version for Windows.
+Como Jogar:
+1. Baixe o arquivo .EXE (Recomendado)
+Vá para a seção Releases desse repositório e baixe a versão mais atualizada para Windows.
 
-2. Run from Source Code
-If you prefer, you can run the game from the source code. Make sure you have Python and Pygame installed:
+2 Rodar pelo código fonte
+Se você preferir, pode iniciar o jogo pelo código. Certifique-se que tem Python e Pygame instalado:
 
-pip install pygame
-python jogo_letras_gui.py
+ - pip install pygame
+ - python jogo_letras_gui.py
 
-Created by Lucas N.
+Criado por Lucas N.
