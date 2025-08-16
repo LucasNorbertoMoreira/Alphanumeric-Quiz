@@ -1,4 +1,7 @@
 # Quiz Alfanumérico
+
+*Um jogo dinâmico e divertido onde você tem que adivinhar o número corresponde a letra do alfabeto.*
+
 Esse é o meu primeiro jogo desenvolvido com IA, programado em Python.
 
 Ferramentas:
