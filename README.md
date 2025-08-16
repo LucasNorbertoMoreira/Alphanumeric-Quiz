@@ -1,4 +1,4 @@
-# Alphanumeric-Quiz
+# Quiz Alfanumérico
 Esse é o meu primeiro jogo desenvolvido com IA, programado em Python.
 O modelo utilizado foi o Gemini 2.5 pro
 
